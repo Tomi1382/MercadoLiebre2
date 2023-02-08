@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+main section article i{
+    display: block;
+    font-size: 16px;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #39b54a;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    top:-15px;
+}
+
+
+article{
+    margin:10px;
+}
+
+
+
+body{
+    background-color:  #EAC926; 
+}
+
+header input {
+    accent-color: darkviolet;
+    color: red;
+}
+
+main{
+    justify-content: center; 
+    text-align: center;   
+    width: 90%;
+    background-color:#ebebeb;
+    border-top: 1px solid #ebebeb;
+}
+
+
+
+h3{
+    font-size:24px;
+}
+
+
+
+.burguer-menu {
+    width: 15px;
+    background-color: blue;
+    
+}
+i #fas fa-bars{ 
+    align-items: center;
+    margin: 10px;
+    height: 2em;
+    width: 2em;
+    
+}
+
+section #logo {
+    width: 50%;
+}
+
+img #banner {
+    width: 30px;
+}
+
+footer {
+    background: #ebebeb;
+}
+
+form{
+    display:grid;
+    
+}
+
+form input {
+    margin:10px;
+}
+.formulario{
+    margin: 10px;
+}
+.intereses-option input{
+    text-align: center;
+    color:#EAC926;
+    align-items: center;
+}
+
+
